@@ -16,8 +16,6 @@ My questions of interest are:
 - How do high-rated listings compare in occupancy rate to lower-rated ones?
 
 ### Dataset
-Source - Kaggle
-
 [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data)
 
 ### Blogpost
