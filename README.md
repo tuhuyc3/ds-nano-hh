@@ -29,7 +29,7 @@ My questions of interest are:
 [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data)
 
 ## Blogpost
-Posted on [Medium](https://medium.com/@ha.huy.97/analysis-of-seattles-airbnb-data-52567e396349)
+Posted on [Medium](https://medium.com/@ha.huy.97/analysis-of-seattles-airbnb-data-52567e396349)\
 You can find the full project and code in my GitHub repository: [ds-nano-hh](https://github.com/tuhuyc3/ds-nano-hh)
 
 ## Key Findings
